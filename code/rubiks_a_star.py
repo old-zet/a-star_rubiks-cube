@@ -2,7 +2,7 @@
 # coding: utf-8
 
 """Define a valid A* function to tackle 
-the 3x3 Rubik's cube solution.
+the 3x3 Rubik's cube solution. 
 """
 
 from classical_resolution import *
